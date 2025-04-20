@@ -3,7 +3,7 @@
 This project showcases a deep learning approach to binary image classification using convolutional neural networks (CNNs). The model is trained to distinguish between images of cats and dogs using TensorFlow and Keras.
 
 <p align="center">
-  <img src="images/example_result.png" alt="Example Result" width="600"/>
+  <img src="images/example.png" alt="Example Result" width="600"/>
 </p>
 
 ---
