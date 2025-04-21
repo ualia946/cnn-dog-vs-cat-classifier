@@ -26,8 +26,8 @@ This project uses a **custom dataset** consisting of:
 
 These images were collected and curated manually for academic purposes. The dataset is **not sourced from Kaggle or any other public dataset provider**.
 
-Due to file size limitations, the dataset is not included in this repository.  
-To run the project, place your image folders inside the `data/` directory following this structure:
+The dataset is  included in this repository.  
+To run the project, be sure to have the images inside the `data/` directory.
 
 ---
 
